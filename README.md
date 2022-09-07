@@ -2,7 +2,7 @@
 
 Web app for visualizing personalized Spotify data
 
-[Spotify Profile web app](spotify-profile-web-app.herokuapp.com)
+[Spotify Profile web app](https://spotify-profile-web-app.herokuapp.com)
 
 ## Local Installation & Set Up
 
